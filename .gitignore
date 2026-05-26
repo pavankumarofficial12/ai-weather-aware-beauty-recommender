@@ -1,0 +1,21 @@
+# Secrets
+.env
+*.env
+config/settings.py
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+env/
+.venv/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
